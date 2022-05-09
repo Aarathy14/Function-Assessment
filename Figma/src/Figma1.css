@@ -1,0 +1,45 @@
+.shoe{
+    background-image:url("shoes.jpg");
+    height: 600px;
+    width: 100%;
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 2%;
+    
+}
+.customCard{
+    width: 100% !important;
+}
+.texty{
+    padding-top: 20rem !important;
+    color: aliceblue;   
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+.discount{
+    color: #9098B1;
+    text-decoration-line: line-through;
+}
+
+.off{
+    color: #FB7181;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+
+}
+.dollor{
+    color: #40BFFF;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 180%;
+}
+.rectangle{
+    background: #BCDDFE;
+;
+}

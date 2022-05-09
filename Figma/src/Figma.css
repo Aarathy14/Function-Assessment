@@ -1,0 +1,104 @@
+.customeCard{
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.title1{
+    font-weight: 700;
+font-size: 18px;
+color: #223263;
+}
+.price1{
+    font-weight: 700;
+font-size: 18px;
+color: #40BFFF;
+}
+.rate1{
+    font-weight: 400;
+font-size: 14px;
+text-decoration-line: line-through;
+color: #9098B1;
+}
+.offer1{
+    font-weight: 700;
+font-size: 14px;
+color: #FB7181;
+}
+.category1{
+    cursor:pointer;
+    font-weight: 400;
+    font-size:22px;
+}
+.category2:hover{
+color:#33A0FF;
+text-decoration: underline;
+
+}
+.blue{
+    background-color: #40BFFF;
+}
+.boder1{
+    border-top: 2px solid #33A0FF; ;
+    width: 7%;
+}
+.boder2{
+border-top:2px solid white;
+width: 12%;
+margin-left: 15%;
+}
+.shoes{
+    position: relative;
+    bottom: 10%;
+}
+.running{
+    font-weight: 500;
+font-size: 55px;
+color: #FFFFFF;
+}
+.design{   
+    color:#FFFFFF;
+font-weight: 400;
+font-size: 24px;
+}
+.now{
+color:#FFFFFF;
+font-weight: 600;
+font-size: 20px;
+}
+.para{
+    text-align: center;
+}
+.jan{
+    color:#C1C8CE;
+    
+}
+.pink{
+    color: #FF4858;
+
+}
+.email1{
+    padding-right: 20%;
+   border: 2px solid #BCDDFE;
+   padding-top:5px;
+   padding-bottom: 8px;
+
+}
+.para2{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    
+}
+.bigline{
+    border-top: 2px solid #FFFFFF;
+    width:75%;
+  
+}
+.rectangle{
+    background-color: #BCDDFE;
+    border:2px solid #BCDDFE;
+}
+.grey{
+    color: #C1C8CE;
+}
